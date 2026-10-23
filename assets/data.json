@@ -1,0 +1,233 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Cities Are Quietly Rewriting Their Rulebooks on Rooftop Solar",
+      "category": "Politics",
+      "author": "Amina Reyes",
+      "date": "2026-07-24",
+      "readTime": "6 min read",
+      "excerpt": "A wave of zoning reforms is removing the last permitting bottlenecks that kept rooftop solar out of reach for renters and older housing stock.",
+      "image": "https://picsum.photos/seed/solar-city/1200/800",
+      "featured": true,
+      "trending": true,
+      "content": [
+        "For the better part of a decade, installing solar panels on a rowhouse in most American cities meant navigating a permitting maze that could take longer than the installation itself. That is changing fast.",
+        "Since January, fourteen mid-sized cities have adopted what planners call 'same-day solar' ordinances, collapsing inspection timelines from weeks to hours by pre-approving standardized panel and inverter configurations.",
+        "PULLQUOTE::The permit was never really about safety. It was about who had the patience to wait it out.",
+        "Housing advocates say the reforms matter most for renters and owners of older multi-unit buildings, who have historically been locked out of solar incentives designed around single-family homeownership.",
+        "Utility companies have responded unevenly. Some have streamlined interconnection agreements to match the new municipal pace; others are lobbying state regulators to slow the rollout, citing grid stability concerns.",
+        "Analysts tracking the policy shift expect at least thirty additional cities to introduce similar measures before the end of the year, part of a broader push to hit distributed-energy targets without waiting on federal action."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "The Quiet Return of the Physical Keyboard",
+      "category": "Tech",
+      "author": "Devon Marsh",
+      "date": "2026-07-23",
+      "readTime": "5 min read",
+      "excerpt": "A new generation of phones and tablets is bringing back tactile keys, not as nostalgia, but as a response to years of screen fatigue.",
+      "image": "https://picsum.photos/seed/keyboard-tech/1200/800",
+      "featured": false,
+      "trending": true,
+      "content": [
+        "Three years ago, the physical keyboard looked like a settled question in mobile design. It had lost. Every flagship device had converged on the same glass slab.",
+        "That consensus is fracturing. At least four manufacturers have shipped or announced devices with mechanical or haptic-key attachments this year, aimed squarely at people who spend most of their day typing.",
+        "PULLQUOTE::We didn't bring back the keyboard for nostalgia. We brought it back because typing on glass for eight hours a day was quietly making people miserable.",
+        "The shift tracks with a broader industry reckoning over 'screen fatigue,' a catch-all term for the physical and attentional toll of touch-first interfaces used for extended, high-focus work.",
+        "Whether this becomes a durable category or a niche accessory market remains an open question, but the engineering investment suggests manufacturers are betting on the former."
+      ]
+    },
+    {
+      "id": "3",
+      "title": "How a Mid-Table Club Rebuilt Around Data It Already Had",
+      "category": "Sports",
+      "author": "Priya Nathan",
+      "date": "2026-07-22",
+      "readTime": "7 min read",
+      "excerpt": "No superstar signings, no coaching overhaul. Just a smarter reading of the numbers the club had been sitting on for years.",
+      "image": "https://picsum.photos/seed/football-data/1200/800",
+      "featured": false,
+      "trending": false,
+      "content": [
+        "When the club hired its first full-time data analyst two seasons ago, the mandate was modest: help the recruitment team avoid obvious mistakes.",
+        "What emerged instead was a wholesale rethink of how minutes were distributed across the squad, built almost entirely on match data the club had been collecting, and ignoring, for years.",
+        "PULLQUOTE::The insight wasn't buried in some proprietary model. It was sitting in a spreadsheet nobody had opened in two years.",
+        "The results have been hard to argue with: a squad assembled without a single transfer fee over eight million now sits comfortably mid-table with a goal difference that rivals teams twice its budget.",
+        "Other clubs have taken notice, sending delegations to study a model that costs a fraction of a marquee signing and, so far, has outperformed several of them."
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Small Retailers Are Beating Big Box Stores at Their Own Game",
+      "category": "Business",
+      "author": "Marcus Webb",
+      "date": "2026-07-21",
+      "readTime": "6 min read",
+      "excerpt": "Independent shops are using the same inventory-forecasting tools once reserved for national chains, and it is changing who survives on Main Street.",
+      "image": "https://picsum.photos/seed/retail-shop/1200/800",
+      "featured": false,
+      "trending": true,
+      "content": [
+        "Inventory forecasting software used to be priced for chains with hundreds of locations. That pricing model has collapsed over the past eighteen months.",
+        "A crop of smaller vendors now offer scaled-down versions of the same demand-prediction tools, letting independent retailers avoid the two problems that kill small shops: dead stock and empty shelves.",
+        "PULLQUOTE::For the first time, a shop with one location can forecast demand almost as well as a chain with three hundred.",
+        "Early adopters report meaningful drops in unsold seasonal inventory, along with fewer stockouts during peak shopping windows.",
+        "The shift is small in dollar terms industry-wide, but for the independent retailers using it, owners describe it as the difference between a good year and a closed storefront."
+      ]
+    },
+    {
+      "id": "5",
+      "title": "The Restaurant Kitchens Quietly Cutting Food Waste in Half",
+      "category": "Culture",
+      "author": "Amina Reyes",
+      "date": "2026-07-20",
+      "readTime": "5 min read",
+      "excerpt": "A handful of chefs are treating waste reduction as a design problem, not a compliance checkbox, and the results are reshaping menus.",
+      "image": "https://picsum.photos/seed/kitchen-waste/1200/800",
+      "featured": false,
+      "trending": false,
+      "content": [
+        "Walk into these kitchens and the first thing you notice is what is missing: trim bins overflowing with vegetable ends, bones, and unused cuts.",
+        "Chefs at the forefront of this shift have redesigned menus around whole-ingredient use, building dishes that treat a carrot's peel and a fish's frame as ingredients in their own right, not byproducts.",
+        "PULLQUOTE::We stopped asking how to dispose of scraps and started asking what dish they were supposed to become.",
+        "The approach has cut kitchen waste by as much as fifty percent at some locations, according to internal audits shared with suppliers.",
+        "It has also, unexpectedly, become a selling point: diners increasingly ask what happened to the parts of the ingredient they don't see on the plate."
+      ]
+    },
+    {
+      "id": "6",
+      "title": "The Overlooked Reason Remote Teams Miss Deadlines",
+      "category": "Business",
+      "author": "Devon Marsh",
+      "date": "2026-07-19",
+      "readTime": "4 min read",
+      "excerpt": "It isn't communication tools or time zones. New research points to something much simpler: how work gets handed off.",
+      "image": "https://picsum.photos/seed/remote-work/1200/800",
+      "featured": false,
+      "trending": false,
+      "content": [
+        "For years, the standard explanation for remote-team delays has centered on communication gaps and time-zone friction.",
+        "New research following forty distributed teams over a year found something else was the stronger predictor: how cleanly work was handed off between people, not how often they talked.",
+        "PULLQUOTE::Teams didn't fail because they talked too little. They failed because handoffs had no clear owner.",
+        "Teams with an explicit handoff protocol, however informal, missed far fewer deadlines than teams with more frequent check-ins but no defined ownership at transition points.",
+        "The finding has quietly reshaped how several fast-growing companies structure their project management, deprioritizing meeting cadence in favor of handoff clarity."
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Youth Leagues Are Rethinking What Counts as a Win",
+      "category": "Sports",
+      "author": "Priya Nathan",
+      "date": "2026-07-18",
+      "readTime": "5 min read",
+      "excerpt": "A growing number of regional youth leagues are experimenting with scoring formats that reward development over blowout victories.",
+      "image": "https://picsum.photos/seed/youth-sports/1200/800",
+      "featured": false,
+      "trending": false,
+      "content": [
+        "In a handful of regional youth leagues, a lopsided scoreline no longer tells the whole story of who won.",
+        "Under new formats, teams also earn points for possession time, player rotation, and skill benchmarks, diluting the influence of a single dominant player.",
+        "PULLQUOTE::A 40-point win used to mean everything. Now it barely moves the standings if only one kid touched the ball.",
+        "Coaches are split on the change. Supporters say it keeps weaker teams engaged and reduces early specialization; critics argue it dilutes competitiveness at an age when kids are ready for it.",
+        "League officials say the pilot will run through the season before a wider rollout decision."
+      ]
+    },
+    {
+      "id": "8",
+      "title": "The Battery Technology Everyone Ignored Until Now",
+      "category": "Tech",
+      "author": "Marcus Webb",
+      "date": "2026-07-17",
+      "readTime": "6 min read",
+      "excerpt": "Sodium-ion batteries spent a decade as a footnote to lithium research. That is starting to look like a mistake.",
+      "image": "https://picsum.photos/seed/battery-tech/1200/800",
+      "featured": false,
+      "trending": false,
+      "content": [
+        "Sodium-ion batteries have been technically viable for years, consistently overshadowed by lithium-ion's higher energy density.",
+        "That gap has narrowed enough that several manufacturers are now shipping sodium-ion cells for stationary storage, where weight matters less than cost and material availability.",
+        "PULLQUOTE::Nobody doubted the chemistry worked. They doubted anyone would bother building a factory for it.",
+        "Sodium is abundant and cheap compared to lithium, and the new cells sidestep several of the supply-chain bottlenecks that have made battery-grade lithium a geopolitical flashpoint.",
+        "The technology is unlikely to challenge lithium in phones or electric vehicles soon, but for grid storage, the economics are starting to shift in its favor."
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Inside the Push to Standardize Election Night Reporting",
+      "category": "Politics",
+      "author": "Amina Reyes",
+      "date": "2026-07-16",
+      "readTime": "7 min read",
+      "excerpt": "A coalition of state officials is working to close the gaps that let unofficial results spread faster than certified ones.",
+      "image": "https://picsum.photos/seed/election-night/1200/800",
+      "featured": false,
+      "trending": false,
+      "content": [
+        "The gap between when votes are counted and when results are formally reported has become one of the more consequential technical problems in modern elections.",
+        "A bipartisan coalition of state election officials is now piloting a shared reporting standard designed to shrink that window and reduce the space for unverified numbers to spread first.",
+        "PULLQUOTE::The problem was never the counting. It was the thirty minutes between counting and telling anyone about it.",
+        "Early pilots in three states cut the average reporting lag by more than half, according to officials involved in the project.",
+        "Wider adoption depends on funding and, in some states, legislative approval, but organizers say interest has grown steadily since the first pilot results came in."
+      ]
+    },
+    {
+      "id": "10",
+      "title": "The Museum That Redesigned Itself Around Silence",
+      "category": "Culture",
+      "author": "Priya Nathan",
+      "date": "2026-07-15",
+      "readTime": "4 min read",
+      "excerpt": "One regional museum removed its audio guides and background music entirely. Attendance went up.",
+      "image": "https://picsum.photos/seed/museum-silence/1200/800",
+      "featured": false,
+      "trending": false,
+      "content": [
+        "Most museums treat sound as something to add: audio guides, ambient soundtracks, docent narration piped through galleries.",
+        "One regional institution tried the opposite, stripping out ambient audio entirely and redesigning gallery flow around unbroken quiet.",
+        "PULLQUOTE::We assumed people wanted more explanation. It turned out they wanted more room to think.",
+        "Visitor surveys since the redesign show longer average time spent per piece and, unexpectedly, a rise in repeat visits.",
+        "The museum's director says the change was never about minimalism for its own sake, but about trusting visitors with unstructured attention."
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Why More Companies Are Paying Employees to Take Sabbaticals",
+      "category": "Business",
+      "author": "Marcus Webb",
+      "date": "2026-07-14",
+      "readTime": "5 min read",
+      "excerpt": "Structured, paid time away is moving from a perk at a handful of firms to a retention strategy at mid-sized ones.",
+      "image": "https://picsum.photos/seed/sabbatical-work/1200/800",
+      "featured": false,
+      "trending": false,
+      "content": [
+        "Sabbaticals were once a benefit associated almost exclusively with academia and a small set of tech giants.",
+        "That is changing as mid-sized companies, facing high turnover among senior staff, adopt structured, paid sabbatical programs as a retention tool rather than a luxury perk.",
+        "PULLQUOTE::We stopped thinking of it as time off and started thinking of it as the cheapest retention program we could build.",
+        "Early data from adopting companies suggests the programs correlate with lower voluntary turnover among employees with five or more years of tenure.",
+        "Skeptics note the sample sizes are still small, but HR leaders describe growing internal pressure to offer something comparable to competitors already doing it."
+      ]
+    },
+    {
+      "id": "12",
+      "title": "The Amateur Astronomers Who Keep Finding What Telescopes Miss",
+      "category": "Tech",
+      "author": "Devon Marsh",
+      "date": "2026-07-13",
+      "readTime": "6 min read",
+      "excerpt": "Distributed networks of hobbyist observers are catching transient events that professional survey schedules routinely miss.",
+      "image": "https://picsum.photos/seed/astronomy-sky/1200/800",
+      "featured": false,
+      "trending": false,
+      "content": [
+        "Professional sky surveys, for all their sophistication, follow fixed observation schedules that leave gaps in coverage.",
+        "Networks of amateur observers, coordinating informally online, have increasingly filled those gaps, flagging transient events during windows professional instruments weren't pointed at the right patch of sky.",
+        "PULLQUOTE::The professionals have better equipment. We just happen to be looking when they aren't.",
+        "Several confirmed discoveries over the past year originated from amateur alerts, later verified and credited by professional observatories.",
+        "Astronomers say the relationship has become genuinely collaborative, with some observatories now building alert pipelines specifically to ingest amateur reports faster."
+      ]
+    }
+  ]
+}

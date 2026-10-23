@@ -1,0 +1,21 @@
+
+name: Docker Prebuilt Actions Workflow
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Confirm workflow setup
+        run: echo "Ready for the Docker prebuilt actions workflow."
